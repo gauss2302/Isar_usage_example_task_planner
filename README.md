@@ -54,4 +54,4 @@ If this is your first Flutter project, here are some resources to get you starte
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For more comprehensive guidance on Flutter development, check out the [online documentation](https://flutter.dev/docs), which offers tutorials, samples, and a full API reference.
-# Isar_usage_example_task_planner
+
